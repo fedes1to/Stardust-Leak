@@ -13,6 +13,7 @@
 - Hussain (Tester)
 - Pulsed (he exists)
 - Omrotat (he exists)
+- vox (drinks)
 
 
 It is a sucessor to [ZygiskPG](https://github.com/fedes1to/ZygiskPG), and it uses Xposed to inject itself, bypassing the old Pixel Gun 3D anticheat (see UnitySendMessage hook)
