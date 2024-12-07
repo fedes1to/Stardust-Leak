@@ -7,14 +7,15 @@
 - Hussain
 - Pulsed
 - chr1s
+- VerifedMatt
 
 
 It is a sucessor to [ZygiskPG](https://github.com/fedes1to/ZygiskPG), and it uses Xposed to inject itself, bypassing the old Pixel Gun 3D anticheat (see UnitySendMessage hook)
 
 Enjoy!
 
-OLD README:
 
+OLD README:
 # LStardust
  Xposed version of Stardust
 
